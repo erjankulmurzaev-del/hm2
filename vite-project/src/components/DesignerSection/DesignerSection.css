@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+.designer-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 20px;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+.designer-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.designer-main-title {
+  font-family: 'Georgia', serif;
+  font-size: 34px;
+  font-weight: 700;
+  color: #244837;
+  margin: 0 0 12px 0;
+  display: inline-block;
+  border-bottom: 2px solid #244837;
+  padding-bottom: 4px;
+}
+
+.designer-subtitle {
+  font-size: 15px;
+  color: #4a6656;
+  margin: 0;
+}
+
+.categories-grid {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
